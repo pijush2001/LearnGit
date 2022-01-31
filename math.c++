@@ -6,6 +6,7 @@ int main(){
     cout<<a+b;
 	//multiplication
 	cout<<a*b;
+	//divide 
 	cout<<a/b;
 	cout<<a-b;
 }
