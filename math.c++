@@ -4,6 +4,7 @@ int main(){
     int a=10,b=20;
 	//addition
     cout<<a+b;
+	//multiplication
 	cout<<a*b;
 	cout<<a/b;
 	cout<<a-b;
